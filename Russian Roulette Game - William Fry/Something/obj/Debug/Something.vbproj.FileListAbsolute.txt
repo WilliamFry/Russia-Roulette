@@ -1,0 +1,55 @@
+e:\my documents\visual studio 2015\Projects\Something\Something\bin\Debug\Something.exe.config
+e:\my documents\visual studio 2015\Projects\Something\Something\bin\Debug\Something.exe
+e:\my documents\visual studio 2015\Projects\Something\Something\bin\Debug\Something.pdb
+e:\my documents\visual studio 2015\Projects\Something\Something\bin\Debug\Something.xml
+e:\my documents\visual studio 2015\Projects\Something\Something\obj\Debug\Something.Form1.resources
+e:\my documents\visual studio 2015\Projects\Something\Something\obj\Debug\Something.Resources.resources
+e:\my documents\visual studio 2015\Projects\Something\Something\obj\Debug\Something.vbproj.GenerateResource.Cache
+e:\my documents\visual studio 2015\Projects\Something\Something\obj\Debug\Something.exe
+e:\my documents\visual studio 2015\Projects\Something\Something\obj\Debug\Something.xml
+e:\my documents\visual studio 2015\Projects\Something\Something\obj\Debug\Something.pdb
+e:\my documents\visual studio 2015\Projects\Something\Something\obj\Debug\Something.vbprojResolveAssemblyReference.cache
+e:\my documents\visual studio 2015\Projects\Something\Something\obj\Debug\Something.Game.resources
+e:\my documents\visual studio 2015\Projects\Something\Something\obj\Debug\Something.GameAI.resources
+E:\Something\Something\bin\Debug\Something.exe.config
+E:\Something\Something\obj\Debug\Something.exe
+E:\Something\Something\obj\Debug\Something.xml
+E:\Something\Something\obj\Debug\Something.pdb
+E:\Something\Something\bin\Debug\Something.exe
+E:\Something\Something\bin\Debug\Something.pdb
+E:\Something\Something\bin\Debug\Something.xml
+E:\Something\Something\obj\Debug\Something.vbprojResolveAssemblyReference.cache
+E:\Something\Something\obj\Debug\Something.Form1.resources
+E:\Something\Something\obj\Debug\Something.Game.resources
+E:\Something\Something\obj\Debug\Something.GameAI.resources
+E:\Something\Something\obj\Debug\Something.Resources.resources
+E:\Something\Something\obj\Debug\Something.vbproj.GenerateResource.Cache
+E:\Something\Something\obj\Debug\Something.Score.resources
+G:\Something\Something\bin\Debug\Something.exe.config
+G:\Something\Something\obj\Debug\Something.exe
+G:\Something\Something\obj\Debug\Something.xml
+G:\Something\Something\obj\Debug\Something.pdb
+G:\Something\Something\bin\Debug\Something.exe
+G:\Something\Something\bin\Debug\Something.pdb
+G:\Something\Something\bin\Debug\Something.xml
+G:\Something\Something\obj\Debug\Something.vbprojResolveAssemblyReference.cache
+G:\Something\Something\obj\Debug\Something.Form1.resources
+G:\Something\Something\obj\Debug\Something.Game.resources
+G:\Something\Something\obj\Debug\Something.GameAI.resources
+G:\Something\Something\obj\Debug\Something.Resources.resources
+G:\Something\Something\obj\Debug\Something.Score.resources
+G:\Something\Something\obj\Debug\Something.vbproj.GenerateResource.Cache
+E:\Russian Roulette Game - Copy\Something\bin\Debug\Something.exe.config
+E:\Russian Roulette Game - Copy\Something\obj\Debug\Something.exe
+E:\Russian Roulette Game - Copy\Something\obj\Debug\Something.xml
+E:\Russian Roulette Game - Copy\Something\obj\Debug\Something.pdb
+E:\Russian Roulette Game - Copy\Something\bin\Debug\Something.exe
+E:\Russian Roulette Game - Copy\Something\bin\Debug\Something.pdb
+E:\Russian Roulette Game - Copy\Something\bin\Debug\Something.xml
+E:\Russian Roulette Game - Copy\Something\obj\Debug\Something.vbprojResolveAssemblyReference.cache
+E:\Russian Roulette Game - Copy\Something\obj\Debug\Something.Form1.resources
+E:\Russian Roulette Game - Copy\Something\obj\Debug\Something.Game.resources
+E:\Russian Roulette Game - Copy\Something\obj\Debug\Something.GameAI.resources
+E:\Russian Roulette Game - Copy\Something\obj\Debug\Something.Resources.resources
+E:\Russian Roulette Game - Copy\Something\obj\Debug\Something.Score.resources
+E:\Russian Roulette Game - Copy\Something\obj\Debug\Something.vbproj.GenerateResource.Cache
